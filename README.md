@@ -1,1 +1,1 @@
-# netflix Movies and TV Shoes Data analysis using SQL
+# Netflix Movies and TV Shoes Data analysis using SQL

@@ -1,1 +1,3 @@
 # Netflix Movies and TV Shoes Data analysis using SQL
+
+![Netflix logo]()
